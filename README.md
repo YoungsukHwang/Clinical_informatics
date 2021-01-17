@@ -12,10 +12,10 @@ Getting a rapid understanding of the context of a patient’s overall health has
 #### 1) Diabetes Prediction
 Using data from the first 24 hours of intensive care, this project will provide models to determine whether a patient admitted to an ICU has been diagnosed with a particular type of diabetes, Diabetes Mellitus. 
 
-#### 2) Length of Stay Prediction / Mortality Predicition
+#### 2) Length of Stay Prediction / Mortality Prediction
 The length of stay is an important metric both for healthcare providers and patients in that it is an indicator of the severity of illnesses and healthcare resource utilisation. Hospitals also want to improve their intensive care unit statistics by reducing the number of patients dying inside the intensive care unit. This project will provide models that uses data from the first 24 hours of intensive care to predict patient survival and length of stay in ICU.
 
 #### 3) Early Prediction of Sepsis
-Sepsis is a life-threatening condition that occurs when the body’s response to infection causes tissue damage, organ failure, or death. In the United States, nearly 1.7 million people develop sepsis and 270,000 people die of sepsis each year; over one third of people who die in U.S. hospitals have sepsis. Early detection and antibiotic treatment of sepsis are critical for improving sepsis outcomes. This project will provide a model that detacts sepsis using patient demographics, vital signs, and laboratory values from ICU clinical data.
+Sepsis is a life-threatening condition that occurs when the body’s response to infection causes tissue damage, organ failure, or death. In the United States, nearly 1.7 million people develop sepsis and 270,000 people die of sepsis each year; over one third of people who die in U.S. hospitals have sepsis. Early detection and antibiotic treatment of sepsis are critical for improving sepsis outcomes. This project will provide a model that detects sepsis using patient demographics, vital signs, and laboratory values from ICU clinical data.
 
 This repository is for a project at Data Incubator.
