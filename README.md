@@ -1,8 +1,8 @@
 # Clinical_informatics
- 
-This repository is for a project at Data Incubator.
 
 <a href="url"><img src="https://www.ohsu.edu/sites/default/files/2019-01/HCIN%20icon.jpg" align="left" height="300" width="450"></a>
+ 
+This repository is for a project at Data Incubator.
 
 ### [Objective]
 This project will build a clinical informatics dashboard, which helps healthcare providers assess patients more faster with guided AI predictions.
