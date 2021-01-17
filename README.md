@@ -1,8 +1,6 @@
 # Clinical_informatics
 <a href="url"><img src="https://www.ohsu.edu/sites/default/files/2019-01/HCIN%20icon.jpg" align="left" height="300" width="450"></a>
  
-This repository is for a project at Data Incubator.
-
 ### [Objective]
 This project will build a clinical informatics dashboard, which helps healthcare providers assess patients faster with guided AI predictions. This project uses the datasets originated from or similar to MIMIC-III (Medical Information Mart for Intensive Care III) data, which has diverse information about the patients admitted to critical care units.
 
@@ -19,3 +17,5 @@ The length of stay is an important metric both for healthcare providers and pati
 
 #### 3) Early Prediction of Sepsis
 Sepsis is a life-threatening condition that occurs when the body’s response to infection causes tissue damage, organ failure, or death. In the United States, nearly 1.7 million people develop sepsis and 270,000 people die of sepsis each year; over one third of people who die in U.S. hospitals have sepsis. Early detection and antibiotic treatment of sepsis are critical for improving sepsis outcomes. This project will provide a model that detacts sepsis using patient demographics, vital signs, and laboratory values from ICU clinical data.
+
+This repository is for a project at Data Incubator.
