@@ -1,5 +1,5 @@
 # Clinical_informatics
-<a href="url"><img src="https://www.ohsu.edu/sites/default/files/2019-01/HCIN%20icon.jpg" align="left" height="300" width="450"></a>
+<a href="url"><img src="https://images.theconversation.com/files/117015/original/image-20160331-28462-qliwnl.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip" align="left" height="300" width="450"></a>
  
 ### [Objective]
 This project will build a clinical informatics dashboard, which helps healthcare providers assess patients faster with guided AI predictions. This project uses the datasets originated from or similar to MIMIC-III (Medical Information Mart for Intensive Care III) data, which has diverse information about the patients admitted to critical care units.
