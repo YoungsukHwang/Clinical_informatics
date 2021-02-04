@@ -7,6 +7,9 @@ This project will build a clinical informatics dashboard, which helps healthcare
 ### [Motivation]
 Getting a rapid understanding of the context of a patient’s overall health has been particularly important during the COVID-19 pandemic as healthcare workers around the world struggle with hospitals overloaded by patients in critical condition. Intensive Care Units (ICUs) often lack verified medical histories for incoming patients. A patient in distress or a patient who is brought in confused or unresponsive may not be able to provide information about chronic conditions such as heart disease, injuries, or diabetes. Medical records may take days to transfer, especially for a patient from another medical provider or system.
 
+### [Business Values]
+The end-users can be medical professionals or healthcare analytics providers. The U.S.'s ICU spending is $80 billion per year, nearly 1% of GDP, and its cost consists of 20~40% of hospital expenditure. [https://bit.ly/36EMcnV] Marginal improvement in the critical care system could lead to both huge financial and health benefits.
+
 ### [Approaches]
 
 #### 1) Diabetes Prediction
